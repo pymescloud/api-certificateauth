@@ -1,0 +1,8 @@
+{
+  "name": "pymescloud-certificateauth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pymescloud/api-certificateauth.git",
+  "author": "PyMEScloud <hola@pymes.cloud>",
+  "license": "MIT"
+}
